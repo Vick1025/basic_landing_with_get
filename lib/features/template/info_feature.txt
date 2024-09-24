@@ -1,0 +1,14 @@
+Presentation: UI & UX
+    - pages
+    - controllers (State management)
+    - widgets
+
+Business: Security, caches, logs, exceptions, validations
+    - entities
+    - repositories
+    - use cases
+
+Data: Internal & external data, Api
+    - data sources
+    - models
+    - repositories
