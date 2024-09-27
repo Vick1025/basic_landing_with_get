@@ -3,7 +3,7 @@ Presentation: UI & UX
     - controllers (State management)
     - widgets
 
-Business: Security, caches, logs, exceptions, validations
+Domain: Security, caches, logs, exceptions, validations
     - entities
     - repositories
     - use cases
